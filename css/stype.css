@@ -18,16 +18,16 @@ header, .alert{
     margin: 0 auto;
     width: 100%;
 }
-.table__productos{
+.table_productos{
     display: flex;
 }
-.table__productos > img{
+.table_productos > img{
     width: 9rem;
     object-fit: contain;
     border-radius: 6px;
     margin-right: 20px;
 }
-.table__cantidad > input{
+.table_cantidad > input{
     width: 40px;
     border: none;
     outline: 0;
